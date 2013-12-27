@@ -1,0 +1,12 @@
+{
+    "name":         "crybat/kohana-pagination-3.3",
+    "type":         "kohana-module",
+    "description":  "Kohana 3.3 Pagination for version",
+    "license":      "MIT",
+
+    "require": {
+        "composer/installers": "~1.0",
+        "kohana/core": ">=3.3",
+        "php": ">=5.3.3"
+    }
+}
